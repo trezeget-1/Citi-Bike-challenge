@@ -1,5 +1,6 @@
 Instructions/**
 DATASETS/**
+citybike_df_202001_202101.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
